@@ -1,4 +1,4 @@
-lock '3.10.1'
+lock '3.14.1'
 
 set :department, 'ldpd'
 set :application, 'feed2js'
